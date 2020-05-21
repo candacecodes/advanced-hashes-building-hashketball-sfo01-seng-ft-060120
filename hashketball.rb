@@ -74,26 +74,27 @@ def game_hash
       blocks:15, 
       slam_dunks:10
       }, {
-              player_name: "Alan Anderson", 
-      number: 0, 
-      shoe: 16, 
-      points: 22, 
+      player_name: "DeSagna Diop", 
+      number: 2, 
+      shoe: 14, 
+      points: 24, 
       rebounds: 12, 
       assists: 12, 
-      steals: 3, 
-      blocks:1, 
-      slam_dunks:1
-      }, {      player_name: "Alan Anderson", 
-      number: 0, 
-      shoe: 16, 
-      points: 22, 
-      rebounds: 12, 
-      assists: 12, 
-      steals: 3, 
-      blocks:1, 
-      slam_dunks:1
+      steals: 4, 
+      blocks:5, 
+      slam_dunks:5
       }, {
-              player_name: "Alan Anderson", 
+      player_name: "Ben Gordon", 
+      number: 8, 
+      shoe: 15, 
+      points: 33, 
+      rebounds: 3, 
+      assists: 2, 
+      steals: 1, 
+      blocks:1, 
+      slam_dunks:0
+      }, {
+      player_name: "Alan Anderson", 
       number: 0, 
       shoe: 16, 
       points: 22, 
